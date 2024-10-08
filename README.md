@@ -1,9 +1,39 @@
-## Hi there 👋
+<h1>Hi, I'm Ibrahim!   
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+-
+-
+-
 
-<!--
-**Ibra701/Ibra701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b> Active Directory Home Lab </b>
+-
+-
+-
+    
+- <b> Okta Home Lab </b>
+-
+-
+-
 
-Here are some ideas to get you started:
+- <b> Vulnerability Managament Home Lab <b>
+-
+-
+-
+  
+- <b> PowerShell </b>
+-
+-
+-
+   
+- <b> Linux </b>
+-
+-
+-
+
+- <b> Certifications </b>
+  - Microsoft Azure SC-900 
+  - Microsoft Cybersecurity Analyst https://www.coursera.org/account/accomplishments/specialization/EYUQGVGKC7ZH
+  - Microsoft Cloud Support Associate 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
