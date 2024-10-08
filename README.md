@@ -4,7 +4,7 @@
 -
 -
 
-- <b> Active Directory Home Lab </b>
+- <b> Azure/Active Directory Home Lab </b>
 -
 -
 -
@@ -24,7 +24,7 @@
 -
 -
    
-- <b> Linux Home Lab </b>
+- <b> Azure Cloud Security Home Lab </b>
 -
 -
 -
