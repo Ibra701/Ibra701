@@ -19,12 +19,12 @@
 -
 -
   
-- <b> PowerShell </b>
+- <b> PowerShell Home Lab </b>
 -
 -
 -
    
-- <b> Linux </b>
+- <b> Linux Home Lab </b>
 -
 -
 -
