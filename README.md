@@ -4,7 +4,7 @@
 -
 -
 
-- <b> Azure/Active Directory Home Lab </b>
+- <b> Azure (Entra ID)/Active Directory Home Lab </b>
 -
 -
 -
