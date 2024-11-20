@@ -24,7 +24,7 @@
 -
 -
    
-- <b> Azure Cloud Security Home Lab </b>
+- <b> Microsoft Intune Home Lab </b>
 -
 -
 -
