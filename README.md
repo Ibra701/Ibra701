@@ -32,7 +32,6 @@
 - <b> Certifications </b>
   - Microsoft Azure SC-900 
   - Microsoft Cybersecurity Analyst Professional  https://www.coursera.org/account/accomplishments/specialization/EYUQGVGKC7ZH
-  - Microsoft Cloud Support Associate professional 
-
+  - Microsoft Cloud Support Associate professional  https://www.coursera.org/account/accomplishments/specialization/G9YKLYYNUBVD
 
 
