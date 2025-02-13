@@ -19,7 +19,7 @@
 -
 -
   
-- <b> PowerShell Home Lab </b>
+- <b> Lab </b>
 -
 -
 -
